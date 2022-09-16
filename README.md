@@ -49,7 +49,7 @@ How does Jenkins compare to other CI/CD tools?
 
 ### Project Architecture
 
-![jenkins_architecture_balsamiq_diagram](https://user-images.githubusercontent.com/10039233/190639100-688520e2-e94e-4390-b277-079a294a27f6.png)
+![jenkins_architecture_balsamiq_diagram2](https://user-images.githubusercontent.com/10039233/190653544-48ea7cb1-bde8-4bf6-97b8-c1ff5bf854d2.png)
 
 ### Setting Up Linode
 
