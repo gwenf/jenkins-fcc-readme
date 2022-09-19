@@ -41,7 +41,7 @@ How does Jenkins compare to other CI/CD tools?
 - [CI/CD Tools Comparison: Jenkins, GitLab CI, Buildbot, Drone, and Concourse](https://www.digitalocean.com/community/tutorials/ci-cd-tools-comparison-jenkins-gitlab-ci-buildbot-drone-and-concourse)
 - [Comparing GitHub Actions vs Jenkins](https://acloudguru.com/blog/engineering/comparing-github-actions-vs-jenkins-ci-showdown)
 - [Jenkins versus Gitlab](https://about.gitlab.com/devops-tools/jenkins-vs-gitlab/)
-- [Aleternatives to Jenkins](https://alternativeto.net/software/jenkins/)
+- [Alternatives to Jenkins](https://alternativeto.net/software/jenkins/)
 
 ### Terms & Definitions
 
